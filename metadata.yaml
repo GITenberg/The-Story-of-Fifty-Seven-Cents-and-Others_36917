@@ -1,0 +1,29 @@
+_repo: The-Story-of-Fifty-Seven-Cents-and-Others_36917
+_version: 0.1.0
+alternative_title: The Story of 57 Cents
+covers:
+- cover_type: archival
+  image_path: 36917-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Shackleton, Robert
+    birthdate: 1860
+    deathdate: 1923
+    gutenberg_agent_id: '38534'
+    url: http://www.gutenberg.org/2009/agents/38534
+description: ''
+gutenberg_issued: '2011-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36917'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Conwell, Russell H., 1843-1925'
+tableOfContents: The story of the sword -- The beginning at old Lexington -- The story
+  of fifty-seven cents -- His power as a preacher -- Gift for inspiring others.
+title: The Story of Fifty-Seven Cents
+url: http://www.gutenberg.org/ebooks/36917
